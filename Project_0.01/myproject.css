@@ -1,0 +1,172 @@
+@font-face {
+    font-family: inter;
+    src: url("assets/fonts/Inter-VariableFont_slnt\,wght.ttf");
+}
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 2%;
+    font-family: inter;
+    margin-right: 5.5%;
+    margin-left:5.5%;
+    font-size: 15px;
+
+}
+#logo{
+    margin-right: 50%;
+    width: 2%;
+    float: left;
+    margin-left: 2%;
+}
+a{
+    cursor: pointer;
+}
+.nav{
+    display: inline;
+    text-decoration: none;
+    margin-right: 2.5%;
+    color: rgba(0, 0, 0, 0.8);
+}
+.nav:hover{
+    color: rgb(231, 84, 84);
+}
+#a{
+    margin-left: 4%;
+}
+.HomepageImage{
+    margin-left: 2%;
+    margin-top: 50px;
+}
+
+#sideblock #b{
+    font-size: 30px;
+    font-weight: bolder;
+}
+#b{
+    color: rgba(204, 147, 41, 0.97);
+}
+#c{
+    margin-top: 0.7%;
+}
+ #e{
+    margin-top: 0.4%;
+}
+#sideblock{
+    width: 27%;
+    background-color: hsl(240, 100%, 5%);
+    color: white;
+    float: right;
+    margin-top: -18.5%;
+    margin-right: 10%;
+}
+#d{
+    width: 80%;
+    margin-top: 4%;
+    margin-bottom: 4%;
+}
+.i{
+    margin-left: 7%;
+}
+.j:hover{
+    color: rgba(204, 147, 41, 0.97);
+    cursor: pointer;
+}
+#f{
+    width: 32%;
+    text-align: left;
+    float: right;
+    margin-right: 4%;
+}
+#readMore{
+    width: 50%;
+    background-color: hsl(240, 100%, 5%);
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 6%;
+    cursor: pointer;
+}
+#theBright{
+    font-weight: bolder;
+    font-size: 40px;
+    width: 23%;
+    margin-left:2% ;
+    margin-top: 1%;
+}
+#footer{
+    display: inline;
+}
+#Retro{
+    width: 32%;
+    float: left;
+}
+#LaptopKeyboard{
+    width: 34%;
+    float: left;
+    margin-right: 5px;
+}
+#Game{
+    width: 33%; 
+    float: left;
+}
+#RetroA{
+    float: left;
+    margin-right: 5%;
+    height: 7%;
+}
+#RetroBOne{
+    font-size: 34px;
+    color: hsl(30, 4%, 56%);
+}
+#RetroB{
+    margin-left: 5px;
+    margin-top: -7%;
+}
+#RetroBWord{
+    margin-top: -2%;
+    cursor: pointer;
+}
+#RetroBWord:hover{
+    color: red;
+}
+#LaptopKeyboardA{
+    float: left;
+    margin-right: 5%;
+    height: 7%;
+}
+#LaptopKeyboardBOne{
+    font-size: 34px;
+    color: hsl(30, 4%, 56%);
+}
+#LaptopKeyboardB{
+    margin-left: 5px;
+    margin-top: -8%;
+}
+#LaptopKeyboardBWord{
+    margin-top: -2%;
+    cursor: pointer;
+}
+#LaptopKeyboardBWord:hover{
+    color: red;
+}
+#GameA{
+    float: left;
+    margin-right: 5%;
+    height: 7%;
+}
+#GameBOne{
+    font-size: 34px;
+    color: hsl(30, 4%, 56%);
+}
+#GameB{
+    margin-left: 5px;
+    margin-top: -8%;
+}
+#GameBWord{
+    margin-top: -2%;
+    cursor: pointer;
+}
+#GameBWord:hover{
+    color: red;
+}
